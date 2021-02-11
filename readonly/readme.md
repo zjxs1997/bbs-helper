@@ -1,0 +1,2 @@
+配合tampermonkey使用。
+可以让bbs变成只读状态，拒绝加入撕逼ORZ
